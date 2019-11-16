@@ -1,0 +1,8 @@
+AuthName "Fallstudien BVZ3 FST" 
+AuthType Basic 
+AuthUserFile "..\htdocs\w19\w19-bvz3-fst-43\.htpasswd" 
+require valid-user 
+
+# BEGIN WordPress
+
+# END WordPress
